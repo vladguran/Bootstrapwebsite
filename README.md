@@ -1,3 +1,3 @@
 # Bootstrapwebsite
-This is a website with Bootstrap
+This is a website about industrial roboters with Bootstrap
 
