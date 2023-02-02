@@ -11445,3 +11445,18 @@ table, th, td {
   border: 2px solid;
 }
 
+.MichaelBirklbauer {
+  margin-top: -100px;
+  margin-right: 200px;
+  float: right;
+}
+
+.VladGuran {
+  margin-top: -230px;
+  margin-right: 385px;
+  float: right;
+}
+
+img:hover {
+  transform: scaleX(-1);
+}
