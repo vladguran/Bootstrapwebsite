@@ -1,3 +1,3 @@
 # Bootstrapwebsite
-This is our project about Industrial Robots. We used a Html and a css file from the Bootstrap website. 
+This is our project about Industrial Robots. We used a selfwritten Html file. We got a css file from the bootstrap website. 
 
