@@ -10,6 +10,7 @@ The idea of the project is to inform people about industrial roboters and and to
 ---
 The website gives an general overview and then it
 describes the different types of industrial roboters. It also shows the programming languages and the structure.
+We want to show young, interested people the robots that are working for us.
 
 ### - Dynamic Part
 ---
