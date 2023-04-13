@@ -19,7 +19,7 @@ A possibility for the dynamic part for the website about industrial robots would
 * Static part (already done)
 * We want to add the interactive control surface by May the 25th.
 * We want a login by April the 27th.
----
 
 ### - Source Version Control System
+---
 Every file that we use is on github.
