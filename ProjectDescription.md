@@ -1,6 +1,6 @@
 # Project Description
 
-## Industrial Roboter
+### - Project name: IndustroBots
 
 ### - Description and Goals of the Project 
 ---
