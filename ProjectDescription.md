@@ -28,3 +28,9 @@ We also want to include a login. This would allow us, for example, to create a c
 ### - Source Version Control System
 ---
 Every file that we use is on github.
+
+### - Project Members
+---
+Vlad Guran - Project Manager
+Michael Birklbauer - Project Member
+
