@@ -2,13 +2,9 @@
 
 ### - Description and Goals of the Project 
 ---
-The idea of the project is to inform people about industrial roboters and and to introduce the different industrial robots. We want to give an  insight.An industrial robot website is a website that provides information about industrial robots. Industrial robots are computer-controlled machines used in industrial manufacturing to perform repetitive, dangerous, or complex tasks. This website would provide specific information about industrial robots, such as:
-
-Robot types: The website would describe different types of industrial robots, such as articulated robots, SCARA robots, delta robots, parallel kinematics robots, etc. It would also explain the advantages and disadvantages of each robot type so that users can make the best choice for their specific requirements.
+The idea of the project is to inform people about industrial roboters and and to introduce the different industrial robots. We want to give an  insight. An industrial robot website is a website that provides information about industrial robots. Industrial robots are computer-controlled machines used in industrial manufacturing to perform repetitive, dangerous, or complex tasks. This website would provide specific information about industrial robots, such as:
 
 Functioning: The website would explain how industrial robots are programmed and controlled and how they can perceive their environment using sensors and cameras.
-
-Benefits: The website would explain the benefits of industrial robots, such as increased efficiency, improved productivity, enhanced quality, and workplace safety.
 
 Overall, an industrial robot website would help users better understand the potential of industrial robots in their production environment and make the best decisions to optimize their processes.
 
