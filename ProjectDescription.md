@@ -23,4 +23,4 @@ A possibility for the dynamic part for the website about industrial robots would
 ---
 
 ### - Source Version Control System
-Every file that we used is on github.
+Every file that we use is on github.
