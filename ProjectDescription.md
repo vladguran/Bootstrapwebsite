@@ -31,6 +31,6 @@ Every file that we use is on github.
 
 ### - Project Members
 ---
-Vlad Guran - Project Manager
-Michael Birklbauer - Project Member
+* Vlad Guran - Project Manager
+* Michael Birklbauer - Project Member
 
