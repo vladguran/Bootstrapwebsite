@@ -1,7 +1,4 @@
-# Project Description
-
-### - Project name: IndustroBots
----
+# Project Description: IndustroBots
 
 ### - Description and Goals of the Project 
 ---
