@@ -16,8 +16,8 @@ We want to show young, interested people the robots that are working for us.
 
 ### Dynamic Part
 ---
-For the dynamic part of the website about industrial robots, we make an interactive user interface. Using JavaScript we could create a user interface that allows visitors to the website to control various movements and actions of a virtual industrial robot. With the animation, we use buttons to get the industrial robot to grab and move objects. 
-We also include a login. This would allow us, for example, to create a community only for users who have registered. We may also restrict access to certain site features.
+For the dynamic part of the website about industrial robots, we make an interactive user interface. Using JavaScript we create a user interface that allows visitors to the website to control various movements and actions of a virtual industrial robot. With the animation, we use buttons to get the industrial robot to grab and move objects. 
+We also include a login. This allows us, for example, to create a community only for users who have registered. We also restrict access to certain site features.
 
 ### Main tasks
 ---
