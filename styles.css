@@ -11456,7 +11456,3 @@ table, th, td {
   margin-right: 385px;
   float: right;
 }
-
-img:hover {
-  transform: scaleX(-1);
-}
