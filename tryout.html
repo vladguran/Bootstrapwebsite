@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Choose robot</title>
+  <style>
+    body {
+      background-color: white;
+      color: #bd5d38;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      text-align: center;
+    }
+    .image-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+    .image-container img {
+      width: 300px;
+      height: 300px;
+      margin: 0 10px;
+    }
+    .button-container {
+      text-align: center;
+    }
+    .button-container a {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #bd5d38;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin: 0 10px;
+    }
+
+    .button {
+      position: fixed;
+      border: none;
+      color: white;
+      padding: 7px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      background-color: #bd5d38;
+      right: 20px;
+      top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Choose your robot:</h1>
+  
+  <div class="image-container">
+    <img src="Roboter1.jpg" alt="Bild 1">
+    <img src="Roboter2.jpg" alt="Bild 2">
+    <img src="Roboter3.jpg" alt="Bild 3">
+  </div>
+  
+  <div class="button-container">
+    <a href="animation1.html">Spherical Robot</a>
+    <a href="animation2.html">Cartesian Robot</a>
+    <a href="animation3.html">Articulated Robot</a>
+  </div>
+  <a href="index.html"> <button class="button">Back to the mainpage</button></a>
+</body>
+</html>
